@@ -1,0 +1,20 @@
+{
+  "name": "ooto_emote_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ooto_emote_template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "core": "OcarinaofTime",
+  "emote": {
+    "name": "",
+    "anim": "",
+    "sound": "",
+    "repeats": false
+  },
+  "compression": "zip"
+}

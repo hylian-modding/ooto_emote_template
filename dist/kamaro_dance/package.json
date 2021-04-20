@@ -1,0 +1,19 @@
+{
+  "name": "Kamaro Dance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kamaro_dance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "core": "OcarinaofTime",
+  "emote": {
+    "name": "Kamaro Dance",
+    "anim": "kamaro_dance.bin",
+    "sound": ""
+  },
+  "compression": "zip"
+}
